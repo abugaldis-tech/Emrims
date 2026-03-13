@@ -1,0 +1,1 @@
+{\n  "compilerOptions": {\n    "target": "ESNext",\n    "module": "ESNext",\n    "jsx": "preserve",\n    "strict": true,\n    "moduleResolution": "bundler"\n  }\n}
